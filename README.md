@@ -7,4 +7,4 @@
 
 #### KMQR_FINAL.R : The KMQR function
 #### gen_power.R : Functions to generate power curves
-#### example. R : Running the functions and plotting the results
+#### example.R : Running the functions and plotting the results
